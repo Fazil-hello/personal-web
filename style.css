@@ -1,0 +1,336 @@
+body{
+  margin:0;
+  padding:0;
+}
+.topper{
+  width: 100%;
+  height: 60px;
+  background: white;
+}.logo{
+  width: 25%;
+  height: 100%;
+  float: left;
+  background:white ;
+}.text{
+  width: 50%;
+  height: 100%;
+  float: left;
+  background:white;
+}.top-text{
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  font-family: Sans-Serif;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}.top-discription{
+  color:black ;
+  font-size: 15px;
+  padding-top:-20px;
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+}.img-logo{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top:5px ;
+}.topnav{
+  width: 5px:
+  background: red;
+}
+.navigation{
+  background: white;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding-top: 25px;
+  padding-left: ;
+}.icon{
+  border: none;
+  background: white;
+  color: black;
+  font-size: 25px;
+  position: absolute;
+}.active {
+  background-color: #04AA6D;
+  color: white;
+}.link a{
+  text-decoration: none;
+}#myLinks {
+  display: none;
+}.link a:hover{
+background-color: white;
+  color: black;
+}.link a{
+  font-weight:bold;
+  position: absolute;
+  left: 268px;
+  border: 10px;
+  padding: 5px;
+  color: blue;
+}.link{
+  width: 100px;
+  height: 130px;
+  border: none;
+  background: rgb(110, 213, 255);
+  margin-left: 250px;
+  border-radius: 15px;
+}.menubody{
+  background:rgb(203, 239, 249);
+  height: 130px;
+  width: 100%;
+  border-radius: 15px;
+}.menu-t{
+  color: black;
+  float: left;
+  width: 175px;
+  height: 100%;
+  font-weight: bold;
+  background:;
+}.menu-head{
+  margin-top: 2px;
+  text-align: center;
+}.menu-logo{
+  width: 70px;
+  height: 100%;
+  float: left;
+}.menu-profile{
+  width: 64%;
+  height: 35%;
+  margin-left: 15px;
+  margin-right:auto;
+  border-radius:32px ;
+}.menu-insta,.menu-facebook,.menu-email{
+  width: 28%;
+  height: 18%;
+  margin-left: 50px;
+  margin-top: 2px;
+}.insta-id,.facebook-username,.email-id{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 13px;
+  color: black;
+}.insta-id{
+  position: absolute;
+  top: 142px;
+}.facebook-username{
+  position: absolute;
+  top: 165px;
+}.email-id{
+  position: absolute;
+  top: 190px;
+  font-size: 12px;
+}.passion{
+  width: 100%;
+  margin-top: 5px;
+  height: 150px;
+}.passion-log{
+  width: 60%;
+  height: 100%;
+  float: left;
+}.passion-img{
+  width: 100%;
+  height: 100%;
+}.passion-p{
+  float: left;
+  width: 40%;
+  height:100%;
+  background:rgb(19, 24, 0);
+}.passion-title{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 2px;
+}.passion-paragraph{
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+}.my-name{
+  color: white;
+  margin-top: 6px;
+  font-family:;
+  font-weight: bold;
+  text-align: right;
+  font-size: 10px;
+}.person{
+  width: 100%;
+  height: 180px;
+  background: ;
+  margin-top: 6px;
+}.person-lg{
+  width: 100%;
+  height: 40%;
+  background: white;
+  float: left;
+}.person-text{
+  width: 100%;
+  height: 60%;
+  background: white;
+  float: left;
+}.person-logo{
+  width: 30%;
+  height: 80%;
+  margin-top:12px;
+  margin-left: 130px;
+}.passion-headding{
+  margin-top: 1px;
+  margin-left: 150px;
+  font-weight: bold;
+  font-family: fantasy;
+}.person-paragraph{
+  font-size: 15px;
+  font-family: Arial;
+  color: Gray;
+  text-align: center;
+}.learning{
+  height: 250px;
+  width: 100%;
+}.learning-title{
+  width: 100%;
+  height: 20%;
+  background: black;
+}.learning-pic1{
+  width: 100%;
+  height: 40%;
+  float: left;
+}.learning-pic2{
+  width: 100%;
+  height: 40%;
+  float: left;
+}.learning-picture1,.learning-picture2,.learning-picture3{
+  width: 33.33%;
+  height: 100%;
+  float: left;
+}.learning-picture4,.learning-picture5,.learning-picture6{
+  width: 33.33%;
+  height: 100%;
+  float: left;
+}
+.java-photo,.cprogram-photo,.python-photo,.html-photo,.javascript-photo,.css-photo{
+  width: 100%;
+  height: 100%;
+}.learn-hed{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 5px;
+}.my-skill{
+  width: 100%;
+  height: 200px;
+}.skill-title{
+  width: 100%;
+  height: 20%;
+}.title-skill{
+text-align: center;
+  font-weight: bold;
+  margin: 0;
+  padding-top: 8px;
+  font-family: Sans-Serif;
+}.skill-java,.skill-python,.skill-web,.skill-c{
+  width: 100%;
+  height: 20%;
+}.name-java,.name-python,.name-web,.name-c{
+  float: left;
+  height: 100%;
+  width: 20%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 11px;
+}.java-table,.python-table,.web-table,.c-table{
+  height: 20%;
+  width: 70%;
+  float: left;
+  background: gray;
+  margin-top: 14px;
+}.java-range{
+  width: 50%;
+  height: 100%;
+  background:green ;
+}.python-range{
+  width: 30%;
+  height: 100%;
+  background:yellow ;
+}.web-range{
+  width: 70%;
+  height: 100%;
+  background:red ;
+}.c-range{
+  width: 60%;
+  height: 100%;
+  background:blue ;
+}.service{
+  width: 100%;
+  height: 200px;
+}.service-hed{
+  width: 100%;
+  height: 20%;
+}.service-hed h4{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10px;
+}.service-title{
+  width: 75%;
+  height: 55%;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  margin-top: 27px;
+  margin-left: 42px;
+  border-radius: 5px;
+}.service-title p{
+  text-align: center;
+  font-family: Arial;
+  color: rgb(59, 81, 121);
+  font-weight: bold;
+}.last-bar{
+  width: 100%;
+  height: 60px;
+  background: rgb(42, 44, 44);
+}.last-bar-title{
+  width: 100%;
+  height: 30%;
+}.last-bar-contact{
+  width: 100%;
+  height: 70%;
+}.last-bar-relese{
+ background: red;
+ height: 42px;
+ width: 100%;
+ background: rgb(42, 44, 44);
+ margin-top: 1px;
+}.last-bar-title p{
+  font-size:12px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding-top: 2px;
+}.last-bar-relese-date{
+  margin: 0;
+  font-size: 10px;
+  font-weight: bold;
+  padding-top: 15px;
+  color: white;
+  text-align: center;
+}.last-bar-contact-email,.last-bar-contact-telegram{
+  width: 50%;
+  height: 100%;
+  float: left;
+}.last-bar-contact-email-contact,.last-bar-contact-telegram-contact{
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 6px;
+  font-weight: bold;
+}.last-bar-contact-telegram-contact{
+  margin-left: 42px;
+}.last-bar-contact-telegram-contact,.last-bar-contact-email-contact:hover{
+  background: rgb(42, 44, 44);
+}
+
+
